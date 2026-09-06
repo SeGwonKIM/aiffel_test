@@ -2,7 +2,7 @@
 
 **작성일** 2026-09-04 (v3.4 기준 2026-09-06 갱신) · **PRD 버전** v3.4
 **저장소** https://github.com/SeGwonKIM/New_sajutarot
-**이전 저장소** https://github.com/SeGwonKIM/Saju_Tarot — v2.27 까지의 동작하는 백업
+**같은 내용의 저장소** https://github.com/SeGwonKIM/Saju_Tarot — 2026-09-06 부터 위와 동일하게 맞춰 둠
 
 > **이 문서의 원칙** — 계획이 아니라 **실제로 구현되어 동작하는 것**을 적는다.
 > 계획과 다른 부분은 다르다고 밝히고, 미구현은 미구현이라고 적는다.
